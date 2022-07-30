@@ -1,2 +1,4 @@
 first text in master
 added second text (while in development branch)
+third line
+fourth line

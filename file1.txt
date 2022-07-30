@@ -1,2 +1,2 @@
 first text in master
-added second text (while in development branch)
+added second text (while in development branch ((now edited in master)) )

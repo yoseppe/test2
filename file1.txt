@@ -1,2 +1,8 @@
 first text in master
+<<<<<<< HEAD
 added second text (while in development branch ((now edited in master)) )
+=======
+added second text (while in development branch)
+third line
+fourth line
+>>>>>>> development
